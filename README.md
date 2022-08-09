@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thaynara 👋
 
-- 🌱 Atualmente estudando UX/UI Design e Front-End;
+- 🌱 Atualmente estudando UX/UI Design, com um pézinho em Front-End;
 - 😄 Pronomes: Ela/Dela;
 - ⚡ Curiosidade: praticante de jiu-jitsu! 💜
 
